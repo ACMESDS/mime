@@ -325,6 +325,7 @@ var MIME = module.exports = {
 "igx": "application/vnd.micrografx.igx",
 "es3": "application/vnd.eszigno3+xml",
 "mdb": "application/x-msaccess",
+"accdb": "application/x-msaccess",
 "asf": "video/x-ms-asf",
 //"exe": "application/x-msdownload",
 "exe": "text/html",
