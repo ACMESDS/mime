@@ -1,4 +1,4 @@
- var MIME = module.exports = {
+var MIME = module.exports = {
 "x3d": "application/vnd.hzn-3d-crossword",
 "3gp": "video/3gpp",
 "3g2": "video/3gpp2",
