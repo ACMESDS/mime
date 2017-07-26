@@ -2,7 +2,7 @@
 @class mime [![Forked from SourceForge](https://sourceforge.net)]
 # MIME
 
-MIME associated applications with file mime types ... nothing exotic.  Uses as follows:
+MIME associates applications with file mime types ... nothing exotic.  Use as follows:
 	
 	var MIME = require("mime");
 
